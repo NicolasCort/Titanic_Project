@@ -1,2 +1,4 @@
 # Titanic Project
-This is my first project in Data Science, all the feedback is greatly accepted.
+Este es mi primer proyecto relacionado con Data Science.
+Todos los datos han sido tomados de la pagina de Kaggle
+
